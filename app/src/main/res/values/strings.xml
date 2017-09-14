@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">FirstApp</string>
+    <string name="solutions">Soluções</string>
+    <string name="title_sales">FATURAMENTO - NFe/NFCe</string>
+    <string name="text_sales">Contribui na gestão de tabelas de preços, comissões, pedidos de venda. Emite os documentos fiscais e possui integração com estoque e financeiro. É possível realizar pedido por meio de aplicativo mobile. Possui interface de atendimento rápido, ideal para lojas de peças, acessórios e materiais de construção.</string>
+    <string name="title_transport">TRANSPORTE - CTe</string>
+    <string name="text_transport">Importa notas fiscais do e-mail e emite conhecimento de transporte eletrônico automaticamente, além de possuir rotina para geração manual do CT-e. É possível criar estruturas de centro de custo e itens de custo para saber exatamente quanto cada veículo gera de despesas.</string>
+    <string name="title_extern_sales">VENDA AMBULANTE</string>
+    <string name="text_extern_sales">Emissão da nota fiscal por meio de Smartphone/Tablet com impressão via impressora Bluetooth no local.</string>
+    <string name="title_financ">FINANCEIRO</string>
+    <string name="text_financ">Gestão de contas a pagar, receber e movimento bancário. Conciliação bancária com impressão de boletos e geração de arquivos de remessa.</string>
+    <string name="title_stock">ESTOQUES/PRODUÇÃO</string>
+    <string name="text_stock">Controle multi-local de armazenagem. Rastreabilidade por lote, com possiblidade de adição de atributos de lote. Engenharia de produtos, apontamento de perdas de produção, custeio e impressão de ordem de produção.</string>
+    <string name="title_bi">BI - BUSINESS INTELLIGENCE</string>
+    <string name="text_bi">Controle multi-local de armazenagem. Rastreabilidade por lote, com possiblidade de adição de atributos de lote. Engenharia de produtos, apontamento de perdas de produção, custeio e impressão de ordem de produção.</string>
+    <string name="about">SOBRE NÓS</string>
+    <string name="about_text">Inovação está em nosso DNA. Somos uma empresa dinâmica e inovadora. Concentramos nossos esforços em atender bem nossos clientes, evitando burocracias desnecessárias.</string>
+    <string name="address">ENDEREÇO</string>
+    <string name="address_text">Rua Eduardo Gato,145,Sala 01,Jardim Coopagro, Toledo\PR</string>
+</resources>
